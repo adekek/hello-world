@@ -3,6 +3,11 @@
 1) вернуть в авторизации user id вместе с токеном:)
 2) modelviewset для CRUD постов(текст и ссылка на юзера), но так, чтобы ни один post нельзя было удалить(ни через менеджер, не через дефолтный delete объекта), чтобы эти объекты просто не появлялись в списке:) ни в django-admin, ни в modelviewset
 все очень просто, но на эти задачи я буду глядеть со стороны:
+
+Django Rest Framework (DRF) - это библиотека, которая работает со стандартными моделями Django для создания гибкого и мощного API для проекта/
+API - application programming interface
+
+
 3) тесты: неважно используешь ли pytest-django или дефолтный django-unittest, нужны основные функциональные тесты - success и failure
 
 Unit; integration; endtoend/functional
