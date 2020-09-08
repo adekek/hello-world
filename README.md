@@ -40,5 +40,4 @@ RADON library - Python tool that computes various metrics from the source code.
 
 5) flake8 - по PEP8, так же PEP484 - typings где можешь:)
 
- Black comes into play it not only report format errors but also fix them.
- pep484 - hints typing 
+
